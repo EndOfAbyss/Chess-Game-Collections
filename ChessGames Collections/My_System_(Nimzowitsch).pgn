@@ -1,0 +1,1395 @@
+[Event "Saint Petersburg"] 
+[Site "St. Petersburg RUE"] 
+[Date "1914.??.??"] 
+[EventDate "?"] 
+[Round "?"] 
+[Result "1-0"] 
+[White "Aron Nimzowitsch"] 
+[Black "Semion Alapin"] 
+[ECO "C11"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "35"] 
+ 
+1. e4 {Notes by Nimzowitsch except where noted.} e6 2. d4 d5
+3. Nc3 Nf6 4. exd5 Nxd5 {Surrender of the center} 5. Nf3 c5
+{To "kill" the Pawn. "Restraint" might have been effected by,
+say ...Be7, ...O-O, ...b6, ...Bb7.} 6. Nxd5 Qxd5 7. Be3 {It
+was to be able to make this move, which combines development
+and attack (the threat is dxc5 winning a Pawn), that White
+exchanged Knights.} cxd4 {Disappearance of tempo spells loss
+of time.} 8. Nxd4 a6 9. Be2 Qxg2 {Stealing a Pawn. The
+consequences are grievous.} 10. Bf3 Qg6 11. Qd2 e5 {The
+crisis. Black means to be rid of the unpleasant Knight, so
+that he may in some measure catch up in development. [White
+must have paid him a fee to play this. -- C H O'D Alexander] }
+12. O-O-O {!} exd4 13. Bxd4 {White's advantage in development
+is now too great.} Nc6 14. Bf6 {! Travels by express. Any
+other Bishop move could have been answered by a development
+move, whereas now there is no time for this; Black must take.}
+Qxf6 15. Rhe1+ {Play in the King and Queen files at the same
+time. The danger of a breakthrough is great.} Be7 {or 15...Be6
+16.Qd7 mate!} 16. Bxc6+ Kf8 {or 16...bxc6 17.Qd8 mate.}
+17. Qd8+ {!} Bxd8 18. Re8# 1-0 
+
+
+
+[Event "Karlsbad"] 
+[Site "Karlsbad (Karlovy Vary) AUH"] 
+[Date "1911.08.31"] 
+[EventDate "1911.08.21"] 
+[Round "8"] 
+[Result "1-0"] 
+[White "Richard Teichmann"] 
+[Black "Aron Nimzowitsch"] 
+[ECO "C41"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "113"] 
+ 
+1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Nc3 Nbd7 5.Bc4 Be7 6.O-O O-O 7.Qe2
+c6 8.a4 Qc7 9.Bb3 a6 10.h3 exd4 11.Nxd4 Re8 12.Bf4 Bf8 13.f3
+Nc5 14.Ba2 Ne6 15.Bxe6 Bxe6 16.Qd2 Rad8 17.Rfe1 Bc8 18.Rad1
+Nd7 19.Nf5 Ne5 20.Nd4 f6 21.Kh1 Qf7 22.Qf2 Qg6 23.b3 Nf7
+24.Kh2 Re7 25.Nde2 f5 26.Ng3 fxe4 27.Ncxe4 d5 28.Nc5 Rde8
+29.Nd3 Rxe1 30.Rxe1 Rxe1 31.Qxe1 Qe6 32.Qxe6 Bxe6 33.Be3 Bd6
+34.f4 Kf8 35.Kg1 g6 36.Kf2 h5 37.Nc5 Bc8 38.a5 Nh6 39.b4 Kf7
+40.c3 Ng8 41.Kf3 Nf6 42.Bd4 Bxc5 43.Bxc5 Be6 44.Bd4 Ne4 45.Ne2
+Bf5 46.g4 hxg4 47.hxg4 Nd2+ 48.Kg3 Bc2 49.Ng1 Ke6 50.Kh4 Bd1
+51.Nh3 Ne4 52.f5+ gxf5 53.Nf4+ Kf7 54.g5 Bg4 55.g6+ Ke7 56.g7
+Kf7 57.Ng6 1-0 
+
+
+
+[Event "Ostend-B"] 
+[Site "Ostend BEL"] 
+[Date "1907.05.21"] 
+[EventDate "?"] 
+[Round "5"] 
+[Result "0-1"] 
+[White "Louis van Vliet"] 
+[Black "Eugene Aleksandrovich Znosko-Borovsky"] 
+[ECO "D00"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "72"] 
+ 
+1.d4 {Notes by Nimzowitsch} d5 2.e3 c5 3.c3 e6 4.Bd3 Nc6 5.f4
+{The stonewall, a very close opening.} Nf6 6.Nd2 Qc7 7.Ngf3
+{Overlooks the threat involved in...Qc7; 7.Nh3 followed by Qf3
+would have been the better course.} cxd4 {!} 8.cxd4
+{Positionally the right move here would usually be exd4 (White
+then has the King file with an outpost station at e5, while
+the Pawn at c3 closes the opponents c-file), but here this
+move would lose a Pawn: 8.exd4 Qxf4. Nevetherless it was
+preferable to the text move; for 8.exd4 Qxf4 9.Nc4 Qc7 (...Qg4
+10.Ne3!); 10.Nce5 Bd6 11.Qe2 and White has a fairly well
+protected outpost in the King file, which Black cannot disturb
+even by Black cannot disturb even by 11...Bxe5 12.dxe5 Nd7
+13.Bf4 f6?; for then 14.exf6 Qxf4 15.fxg7 Rg8 16.Qxe6+ would
+win for White. So long as the King file with the outpost
+Knight at e5, or its full equivalent, a Pawn at e5 (after Pawn
+recaptures), remains in White's possession he stands
+excellently, despite the Pawn minus.} Nb4 9.Bb1 Bd7 10.a3 Rc8
+{! It is only by this subtle Rook move that the somewhat
+beginner-like Knight maneuver gets a meaning.} 11.O-O Bb5
+12.Re1 Nc2 13.Bxc2 Qxc2 14.Qxc2 Rxc2 {The 7th rank, seconded
+by the Bishop's diagonal b5 to f1 and the point e4 for the
+Knight.} 15.h3 Bd6 16.Nb1 Ne4 {No outpost in our sense (the
+open file behind is wanting); but a good sustitute.} 17.Nfd2
+Bd3 18.Nxe4 Bxe4 {18...dxe4 with the Bishop established at d3
+would also have been good.} 19.Nd2 Kd7 20.Nxe4 dxe4 21. Rb1
+Rhc8 22.b4 R8c3 23.Kf1 Kc6 {!} 24.Bb2 Rb3 25.Re2 Rxe2 26.Kxe2
+Kb5 27.Kd2 Ka4 28.Ke2 a5 {The decisive breakthrough. The
+position of Black's Rook, holding the White e-Pawn under a
+continual threat, was also too strong to be withstood. The
+rest is readily understandable.} 29.Kf2 axb4 30.axb4 Kxb4
+31.Ke2 Kb5 32.Kd2 Ba3 33.Kc2 Rxb2+ 34.Rxb2+ Bxb2 35.Kxb2 Kc4
+36.Kc2 b5 0-1 
+
+
+
+[Event "Ostend-B"] 
+[Site "Ostend BEL"] 
+[Date "1907.06.14"] 
+[EventDate "?"] 
+[Round "22"] 
+[Result "0-1"] 
+[White "Francis Joseph Lee"] 
+[Black "Aron Nimzowitsch"] 
+[ECO "A46"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "108"] 
+ 
+1. d4 {Notes by Nimzowitsch} Nf6 2. Nf3 d6 3. Nbd2 Nbd7 4. e4
+e5 5. c3 Be7 6. Bc4 O-O 7. O-O exd4 8. cxd4 d5 {! At a blow
+the proud e-Pawn, despite his freedom and mobility, vanishes,
+is pulverized!} 9. Bd3 {If exd5 then 9...Nb6 followed by
+...Nxd5} dxe4 10. Nxe4 Nxe4 11. Bxe4 Nf6 {Here is our exchange
+with consequent gain of tempo.} 12. Bd3 Nd5 13. a3 Bf6 {And
+now Black stands better because of White's rather weak
+d-Pawn.} 14. Qc2 h6 15. Bd2 Be6 16. Rae1 c6 17. Be3 Qb6 18. h3
+Rad8 19. Rc1 Rd7 {Quietly building up the position; the d-Pawn
+cannot move, so why get excited?} 20. Rfe1 Rfd8 21. Qe2 Qc7
+22. Bb1 Ne7 {His work done (for the Knight has been working, a
+change of air is good. The Knight aims to get to f5.} 23. Ne5
+Bxe5 24. dxe5 Qxe5 25. Bxa7 Qxe2 26. Rxe2 Rd1+ {Black now
+invades the enemy position via the d-file.} 27. Re1 Rxc1
+28. Rxc1 Rd2 {Now play in the 7th rank begins.} 29. b4 Nd5
+30. Be4 Nf6 31. Bc2 Nd5 32. Be4 Ra2 {! Allowing Bishops of
+opposite color.} 33. Bxd5 Bxd5 34. Rc3 f5 {! All according to
+my system. Black seeks an object of attack in the 7th rank;
+against the a-Pawn nothing further can be done, so the second
+player intends to lay bare White's g-Pawn. This will be
+brought about by a compact advance of the King's wings
+forces.} 35. Kh2 Kf7 36. Bc5 g5 37. Rd3 b5 38. Bd4 Be4 39. Rc3
+Bd5 40. Bc5 Kg6 41. Rd3 h5 42. Bb6 f4 43. Bd4 Kf5 44. f3
+{White stood very badly, the threat was ...g4 followed by
+...g3+; fxg Rxg2+.} g4 45. hxg4+ hxg4 46. Kg1 Re2 {The 8th
+rank (White's first rank) is also weak (...g3 is threatened
+when opportunity arises) and White has not a plethora of moves
+at his command either.} 47. fxg4+ Ke4 48. Rd1 Bb3 49. Rf1 Kxd4
+50. Rxf4+ Re4 51. Rf6 Bd5 52. Rg6 Re2 53. Kh2 Rxg2+ 54. Kh3
+Ra2 0-1 
+
+
+
+[Event "Riga"] 
+[Site "Riga RUE"] 
+[Date "1913.05.??"] 
+[EventDate "?"] 
+[Round "?"] 
+[Result "0-1"] 
+[White "Ottomar Heinrich von Haken"] 
+[Black "Augusts Gize"] 
+[ECO "C01"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "68"] 
+ 
+1. e4 {Notes by Nimzowitsch} e6 2. d4 d5 3. exd5 exd5 4. Nf3
+Bd6 5. Bd3 Nf6 6. h3 O-O 7. O-O h6 {In the Exchange Variation
+of the French Defence with the king knight's developed at f3
+and f6 the pinning move Bg5 and ...Bg4 furnish one of the
+leading motives for both sides. Here, however, this motif is
+ruled out by the moves of the h-pawns, and, except for a
+moment we see and here nothing but the e-file.} 8. Nc3 c6
+9. Ne2 Re8 10. Ng3 Ne4 {The outpost.} 11. Nh5 Nd7 12. c3 Ndf6
+13. Nh2 Qc7 14. Nxf6+ Nxf6 15. Nf3 Ne4 16. Bc2 Bf5 {!
+Allpieces are directed to the strategical point; this is also
+called emphasizing one's strength (here the knight at e4).}
+17. Nh4 Bh7 18. Be3 g5 19. Nf3 f5 20. Re1 Re7 {The pressure in
+the file grows more acute move by move.} 21. Nd2 f4 22. Nxe4
+dxe4 {The place of the outpost knight is now worthiliy taken
+by a "half-passed" pawn.} 23. Bd2 Rae8 24. c4 c5 25. Bc3 Bg6
+{! In order to be able to play ...Kh7 and ...e3; a timely
+advance against the pawn at h3 is also threatened by ...h5,
+...g4, an echo of the pin motif!} 26. Qg4 cxd4 27. Bxd4 Be5
+28. Bxe5 Rxe5 29. Qd1 {If 29 Rad1 then 29...e3 30 Bxg6 exf2+
+31 Kxf2 Qc5+ 32 Kf1 Qxc4+ 33 Kf2 Qc5+ 34 Kf1 Qb5+ 35 Kf2 Qxb2+
+36 Kf1 Qb5+ 37 Kf2 Qb6+ 38 Kf1 Qa6+ 39 Kf2 Qxa2+ 40 Kf1 Qa6+
+41 Kf2 Qb6+ 42 Kf1 followed by the double exchange at e1 and
+...Qxg6. A fine illustration of the theme: the win of a pawn
+with check.} Rd8 30. Qb1 Rd2 31. Bxe4 Qc5 32. Bd5+ Kg7 33. Qc1
+Qxf2+ 34. Kh1 Rexd5 {This game provides a trasparent,
+therefore, a good, illustration to the outpost theme.} 0-1 
+
+
+
+[Event "Breslau"] 
+[Site "Breslau GER"] 
+[Date "1889.07.17"] 
+[EventDate "1889.07.15"] 
+[Round "5"] 
+[Result "1-0"] 
+[White "Siegbert Tarrasch"] 
+[Black "Johann Nepomuk Berger"] 
+[ECO "C77"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "147"] 
+ 
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3 Bb4 6.Nd5 Be7 7.d3
+d6 8.Nb4 Bd7 9.Nxc6 Bxc6 10.Bxc6+ bxc6 11.O-O O-O 12.Qe2 c5
+13.c3 Nd7 14.d4 exd4 15.cxd4 Bf6 16.Be3 cxd4 17.Bxd4 Re8
+18.Qc2 Bxd4 19.Nxd4 Nc5 20.f3 Qf6 21.Rfd1 Reb8 22.Rab1 a5
+23.Kh1 Rb6 24.Ne2 Ne6 25.Nc3 Rc6 26.Qa4 Rc5 27.Nd5 Qd8 28.Rbc1
+Rxc1 29.Rxc1 c5 30.Rd1 Nd4 31.Qc4 Rb8 32.b3 Rc8 33.Rxd4 cxd4
+34.Ne7+ Qxe7 35.Qxc8+ Qf8 36.Qxf8+ Kxf8 37.Kg1 Ke7 38.Kf2 d5
+39.e5 Ke6 40.Ke2 Kxe5 41.Kd3 h5 42.a3 h4 43.b4 axb4 44.axb4
+Kd6 45.Kxd4 Kc6 46.b5+ Kxb5 47.Kxd5 Kb4 48.Kd4 Kb5 49.Ke5 Kc4
+50.Kf4 Kd4 51.Kg4 Ke5 52.Kxh4 Kf4 53.Kh5 Kf5 54.g3 Kf6 55.Kg4
+Kg6 56.Kf4 Kf6 57.Ke4 Ke6 58.Kd4 Kd6 59.Kc4 Kc6 60.f4 Kd6
+61.Kd4 Ke6 62.Kc5 Ke7 63.Kd5 Kd7 64.Ke5 Ke7 65.f5 f6+ 66.Kd5
+Kd7 67.h3 Ke7 68.Kc6 Ke8 69.h4 Ke7 70.Kc7 Ke8 71.Kd6 Kd8
+72.Ke6 Ke8 73.h5 Kf8 74.h6 1-0 
+
+
+
+[Event "Baden-Baden"]
+[Site "Baden-Baden GER"]
+[Date "1925.05.01"]
+[EventDate "1925.04.16"]
+[Round "12"]
+[Result "0-1"]
+[White "Ilya Leontievich Rabinovich"]
+[Black "Aron Nimzowitsch"]
+[ECO "E12"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "88"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 b6 4.Nc3 Bb7 5.Bg5 h6 6.Bh4 Be7 7.e3 d6
+8.Bd3 Nbd7 9.O-O O-O 10.Qe2 e5 11.dxe5 Bxf3 12.gxf3 Nxe5
+13.Bxf6 Bxf6 14.Be4 Rb8 15.Rad1 Nd7 16.Nd5 Nc5 17.Bb1 a5
+18.Kh1 g6 19.Rg1 Bg7 20.Rg3 c6 21.Nf4 Rb7 22.Qc2 Qf6 23.b3 Re8
+24.Ne2 Rd7 25.Rd2 Red8 26.Nf4 Kf8 27.Qd1 h5 28.Qg1 Bh6 29.Ne2
+d5 30.cxd5 Rxd5 31.Rxd5 Rxd5 32.f4 Bg7 33.Qc1 Qd6 34.Bc2 Ne4
+35.Rg2 h4 36.Ng1 Nc3 37.a4 Na2 38.Qf1 Nb4 39.Be4 Rd1 40.Qc4 f5
+41.Bf3 h3 42.Rg3 Nd3 43.Qc2 Rc1 44.Qe2 Rb1 0-1 
+
+
+
+[Event "Copenhagen"] 
+[Site "Copenhagen DEN"] 
+[Date "1923.03.09"] 
+[EventDate "1923.03.03"] 
+[Round "6"] 
+[Result "0-1"] 
+[White "Friedrich Saemisch"] 
+[Black "Aron Nimzowitsch"] 
+[ECO "E18"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "50"] 
+ 
+1. d4 {Notes by Nimzowitsch's "My System"} Nf6 2. c4 e6 3. Nf3
+b6 4. g3 Bb7 5. Bg2 Be7 6. Nc3 O-O 7. O-O d5 8. Ne5 c6
+{Safeguards the position} 9. cxd5 cxd5 10. Bf4 a6 {Protects
+the oupost station c4, i.e., by ...a6 and ...b5.} 11. Rc1 b5
+12. Qb3 Nc6 {The ghost! With noiseless steps he presses on
+towards c4.} 13. Nxc6 {Samisch sacrifices two tempi (exchange
+of the tempo-eating Knight on e5 for the Knight which is
+almost undeveloped) merely to be rid of the ghost.} Bxc6
+14. h3 Qd7 15. Kh2 Nh5 {I could have supplied him with as yet
+a second ghost by ...Qb7 and ...Knight-d7-b6-c4, but I wished
+to turn my attention to the King's side.} 16. Bd2 f5 {!}
+17. Qd1 b4 {!} 18. Nb1 Bb5 19. Rg1 Bd6 20. e4 fxe4 {! This
+sacrifice, which has a quite surprising affect, is based upon
+the following sober calculation: two Pawns and the 7th rank
+and an enemy Queen's wing which cannot be disentangled - all
+this for only one piece!} 21. Qxh5 Rxf2 22. Qg5 Raf8 23. Kh1
+R8f5 24. Qe3 Bd3 25. Rce1 h6 {!! A brilliant move which
+announces the Zugzwang. White has not a move left. If, e.g.,
+Kh2 or g4, then R5f3. Black can now make waiting moves with
+his King, and White must, willy-nilly, eventually throw
+himself upon the sword.} 0-1 
+
+
+
+[Event "Copenhagen"] 
+[Site "Copenhagen DEN"] 
+[Date "1922.12.06"] 
+[EventDate "?"] 
+[Round "4"] 
+[Result "1-0"] 
+[White "Aron Nimzowitsch"] 
+[Black "Axel Carl Martin Pritzel"] 
+[ECO "B06"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "57"] 
+ 
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. Be3 Nf6 5. Be2 O-O 6. Qd2 e5
+7. dxe5 dxe5 8. O-O-O Qxd2+ 9. Rxd2 c6 10. a4 Ng4 11. Bxg4
+Bxg4 12. Nge2 Nd7 13. Rhd1 Nb6 14. b3 Bf6 15. f3 Be6 16. a5
+Nc8 17. Na4 b6 18. Rd3 bxa5 19. Rc3 Ne7 20. Rc5 Rfb8 21. Nec3
+a6 22. Rxa5 Kg7 23. Nb6 Ra7 24. Nca4 Rab7 25. Rxa6 Nc8
+26. Nxc8 Rxc8 27. Nc5 Rbc7 28. Rd6 Rd8 29. Rxe6 1-0 
+
+
+
+[Event "Breslau"]
+[Site "Breslau GER"]
+[Date "1925.07.30"]
+[EventDate "1925.07.19"]
+[Round "9"]
+[Result "1-0"]
+[White "Aron Nimzowitsch"]
+[Black "Siegbert Tarrasch"]
+[ECO "A34"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "105"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 d5 4. cxd5 Nxd5 5. d4 cxd4 6. Qxd4
+e6 7. e3 Nc6 8. Bb5 Bd7 9. Bxc6 Bxc6 10. Ne5 Nxc3 11. Nxc6
+Qxd4 12. Nxd4 Nd5 13. Bd2 Bc5 14. Nb3 Bb4 15. Rc1 Rd8 16. Bxb4
+Nxb4 17. Ke2 Ke7 18. Rc4 Na6 19. Rhc1 Rd7 20. f4 Rhd8 21. Nd4
+f6 22. a4 e5 23. fxe5 fxe5 24. Nf3 Ke6 25. b4 b6 26. R1c2 h6
+27. h4 Rd6 28. h5 Rd5 29. Rg4 R5d7 30. Rc6+ Rd6 31. Rg6+ Ke7
+32. Rxg7+ Kf8 33. Rxd6 Rxd6 34. Rxa7 Nxb4 35. Nxe5 Re6
+36. Ng6+ Kg8 37. Ne7+ Kf8 38. Nf5 Nd5 39. g4 Nf4+ 40. Kf3 Nd3
+41. Ra8+ Kf7 42. Rh8 Nc5 43. Rh7+ Kg8 44. Rxh6 Rxh6 45. Nxh6+
+Kf8 46. Nf5 Nxa4 47. h6 Kg8 48. g5 Kh7 49. Kg4 Nc5 50. Kh5 Ne6
+51. g6+ Kg8 52. h7+ Kh8 53. Kh6 1-0 
+
+
+
+[Event "Baden-Baden"] 
+[Site "Baden-Baden GER"] 
+[Date "1925.04.28"] 
+[EventDate "1925.04.16"] 
+[Round "10"] 
+[Result "0-1"] 
+[White "George Alan Thomas"] 
+[Black "Alexander Alekhine"] 
+[ECO "B02"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "106"] 
+ 
+1. e4 Nf6 2. d3 c5 3. f4 Nc6 4. Nf3 g6 5. Be2 Bg7 6. Nbd2 d5
+7. O-O O-O 8. Kh1 b6 9. exd5 Qxd5 10. Qe1 Bb7 11. Nc4 Nd4
+12. Ne3 Qc6 13. Bd1 Nd5 14. Nxd4 cxd4 15. Nxd5 Qxd5 16. Bf3
+Qd7 17. Bxb7 Qxb7 18. c4 dxc3 19. bxc3 Rac8 20. Bb2 Rfd8
+21. Rf3 Bf6 22. d4 Qd5 23. Qe3 Qb5 24. Qd2 Rd5 25. h3 e6
+26. Re1 Qa4 27. Ra1 b5 28. Qd1 Rc4 29. Qb3 Rd6 30. Kh2 Ra6
+31. Rff1 Be7 32. Kh1 Rcc6 33. Rfe1 Bh4 34. Rf1 Qc4 35. Qxc4
+Rxc4 36. a3 Be7 37. Rfb1 Bd6 38. g3 Kf8 39. Kg2 Ke7 40. Kf2
+Kd7 41. Ke2 Kc6 42. Ra2 Rca4 43. Rba1 Kd5 44. Kd3 R6a5 45. Bc1
+a6 46. Bb2 h5 47. h4 f6 48. Bc1 e5 49. fxe5 fxe5 50. Bb2 exd4
+51. cxd4 b4 52. axb4 Rxa2 53. bxa5 Rxb2 0-1 
+
+
+
+[Event "Riga Offhand game"]
+[Site "Riga RUE"]
+[Date "1919.07.10"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Aron Nimzowitsch"]
+[Black "Karl Behting"]
+[ECO "C40"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "53"]
+
+1.e4 e5 2.Nf3 f5 3.Nxe5 Qf6 4.d4 d6 5.Nc4 fxe4 6.Ne3 c6 7.Bc4
+d5 8.Bb3 Be6 9.c4 Qf7 10.Qe2 Nf6 11.O-O Bb4 12.Bd2 Bxd2
+13.Nxd2 O-O 14.f4 dxc4 15.Ndxc4 Qe7 16.f5 Bd5 17.Nxd5 cxd5
+18.Ne3 Qd7 19.Nxd5 Nxd5 20.Qxe4 Rd8 21.f6 gxf6 22.Rf5 Kh8
+23.Rxd5 Re8 24.Rxd7 Rxe4 25.Rd8+ Kg7 26.Rg8+ Kh6 27.Rf1 1-0 
+
+
+
+[Event "Vilnius All-Russian Masters"] 
+[Site "Vilna (Vilnius) RUE"] 
+[Date "1912.08.31"] 
+[EventDate "1912.08.19"] 
+[Round "9"] 
+[Result "1-0"] 
+[White "Aron Nimzowitsch"] 
+[Black "Sergey Nikolaevich von Freymann"] 
+[ECO "C02"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "99"] 
+ 
+1.e4 {Notes by Nimzowitsch} e6 2.d4 d5 3.e5 c5 4.Nf3 cxd4
+{4...Qb6 seems to be better.} 5.Nxd4 Nc6 6.Nxc6 bxc6 7.Bd3 Qc7
+8.Bf4 g5 {Not quite sound but leading to interesting play.}
+9.Bg3 Bg7 10.Qe2 Ne7 11.O-O h5 12.h3 Nf5 13.Bh2 {13 Bxf5 exf5
+14 e6 would be obviously bad because of 14...f4 15 exf7+
+Kxf7.} g4 {The pretty point of the attack started by ...g5.}
+14.Re1 {the answer to 14 hxg4 hxg4 15 Qxg4 would have been
+15...Rxh2 16 Kxh2 Bxe5+ followed by ...Bxb2.} Kf8 15.Nc3 {The
+knight proposes to make his way to f4 (after the black knight
+at f5 is exchanged off.} Qe7 16.Bxf5 exf5 17.Qe3 Rh6 18.Ne2 c5
+19.Nf4 {! this knight is to be regarde as primarily the
+blockader of Black's pawn at f5 and its adherent mass of
+pawns; but in addition he acts as an "antiblockader" for his
+own aspiring pawn at e5.} d4 20.Qd3 Qd7 21.Qc4 Qc6 22.hxg4 {!
+The necessary prelude to Nd3. If at once 22 Nd3 there would
+have followed 22...gxh3 23 Qxc5+ Qxc5 24 Nxc5 Rg6 25 g3 and
+White stands badly.} Ba6 23.Qd5 {!!} Qxd5 {Most interesting
+would have been 23...hxg4; the result would have been a
+triumphant march of the e-pawn to e8. For instance 24 e6 (with
+an attack on the queen) 24...Qxd5 25 e7+ Ke8 26 Nxd5 followed
+by check at c7. (the 'unexpected advance of the unstopped
+pawn.")} 24.Nxd5 Bc4 {If 24...hxg4, then again e6 winning the
+exchange.} 25.Nf6 hxg4 26.Bf4 Rg6 27.Nd7+ Ke7 28.Nxc5 Rc8
+29.b4 Bh6 30.Rad1 Bxf4 31.Rxd4 Rh6 32.Rxc4 Rch8 33.Kf1 Rh1+
+34.Ke2 Rxe1+ 35.Kxe1 Bxe5 36.Nd3 Bd6 37.a4 a5 38.b5 Rh1+
+39.Ke2 Rh2 40.Nf4 Bxf4 41.Rxf4 Rxg2 42.c4 Rg1 43.Rxf5 Ke6
+44.Rd5 Rb1 45.Rd8 Ke7 46.Ra8 Rb4 47.c5 Rxa4 48.b6 Rb4 49.c6
+Rxb6 50.c7 {What interests in this game is above all the role
+which the knight at f4 has played. As a blockader he was
+strongly posted and excellently supported (by the bishop at
+h2). Again he had a crippling affect on Black's bishop at g7
+and rook at h6, etc. Further, his "threat effect" was
+considerable, particularly on the points d5 and e6. (The
+mobility of White's e-pawn affords a piquant antithesis to the
+immobility of Black's pawn at f5.) And lastly, his elasticity
+was striking, for he could composedly go on his travels,
+leaving the bishop to take his place.} 1-0 
+
+
+
+[Event "San Sebastian"] 
+[Site "San Sebastian ESP"] 
+[Date "1911.02.23"] 
+[EventDate "1911.02.20"] 
+[Round "3"] 
+[Result "1-0"] 
+[White "Aron Nimzowitsch"] 
+[Black "Paul Saladin Leonhardt"] 
+[ECO "C49"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "95"] 
+ 
+1. e4 {Notes by Nimzowitsch} e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5
+Bb4 5. O-O O-O 6. Bxc6 dxc6 7. d3 {White has now a solid
+position, since the the enemy Queen file "bites on granite"
+(the protected P at d3). This solidity, however, also finds
+expression in the fact that White's e-Pawn can never be
+troubled by an advance of Black's d-Pawn; in other words, the
+center cannot be opened.} Bg4 {The pin.} 8. h3 Bh5 9. Bg5
+{9.g4 would have been premature, because of 9...Nxg4 10.hxg4
+Bxg4,; followed by ...f5.} Qd6 10. Bxf6 Qxf6 11. g4 {The
+"question" is here indicated, since the Biswhop will be driven
+into a desert, which, because of the impossibility of ...d5,
+can never be transformed into a "flowering garden". Observe
+how the h-Pawn and the g-Pawns slowly develop into storm
+troops.} Bg6 12. Kg2 Rad8 13. Qe2 Bxc3 {Else Kt-d1-e3-f5 would
+have followed.} 14. bxc3 c5 15. Nd2 {White now intends to
+bring his Kt to f5 via c4 and e3; on the other hand he
+proposes to prevent the embarrasing move ...c4 for as long as
+possible without the aid of c4, since this move would leave
+the output position in the Queen file (at d4) unguarded.} Qe7
+16. Nc4 b6 17. Ne3 f6 {In order at length to free the Bishop;
+this move, however, invites g5 when an opportune moment
+comes.} 18. Rg1 Qd7 19. Kh2 Kh8 20. Rg3 Qb5 21. Qe1 Qa4
+22. Qc1 Rd7 23. h4 Bf7 24. c4 {Black has succeded in provoking
+c4; in the meantime, however, White has got the King's wing
+beautifully arranged to suit himself.} Be6 25. Qb2 a5 26. Rag1
+Qc6 27. R1g2 {!! White quietly makes his last preparations for
+a worthy reception of the enemy Queen at d4, for which point
+she is striving. Observr how the first player has succeeded in
+combining the defence of the center with his plans for a
+King-side attack.} Qd6 28. Qc1 Qd4 {?} 29. Nd5 {! Traps the
+Queen. This "trap" was everywhere applauded. That it was
+subordinate to the strategic ends which I had set myself in
+this game was taken into consideration by no one. The aim of
+my strategy was, however, to prevent a breakthrough or any
+manouvering in the center and to make possible the ultimate
+advance g5 with the attack.} Rxd5 30. c3 Qxd3 31. exd5 {cxd5
+was more precise.} Qxc4 32. dxe6 Qxe6 33. Qc2 c4 34. Qf5 Qxf5
+35. gxf5 Rf7 36. Rg4 b5 37. a4 c6 38. Rg1 h5 39. Re4 Rd7
+40. Ra1 Rd3 41. axb5 cxb5 42. Rxa5 Rxc3 43. Rxb5 Rf3 44. Kg2
+Rxf5 45. Rxc4 Kh7 46. f4 Kg6 47. fxe5 fxe5 48. Rcc5 {The
+student may see from the laborious and tedious defence which
+White adopted (see moves 21, 22, 25, 28) that he fully
+recognized the fact that the disposition of his King-side
+Pawns (h3,g4) demanded a closed center.} 1-0 
+
+
+
+[Event "Marienbad"]
+[Site "Marianske Lazne CSR"]
+[Date "1925.06.01"]
+[EventDate "1925.??.??"]
+[Round "10"]
+[Result "0-1"]
+[White "Akiba Rubinstein"]
+[Black "Aron Nimzowitsch"]
+[ECO "A47"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "76"]
+
+1.d4 Nf6 2.Nf3 b6 3.g3 c5 4.Bg2 Bb7 5.dxc5 bxc5 6.c4 g6 7.b3
+Bg7 8.Bb2 O-O 9.O-O Nc6 10.Nc3 a5 11.Qd2 d6 12.Ne1 Qd7 13.Nc2
+Nb4 14.Ne3 Bxg2 15.Kxg2 Qb7+ 16.f3 Bh6 17.Ncd1 a4 18.bxa4 Rfe8
+19.Bxf6 exf6 20.Kf2 f5 21.Qxd6 Bg7 22.Rb1 Bd4 23.Kg2 Bxe3
+24.Nxe3 Rxe3 25.Qxc5 Rxe2+ 26.Rf2 Rxf2+ 27.Qxf2 Rxa4 28.a3
+Rxa3 29.Qe2 Ra8 30.c5 Qa6 31.Qxa6 Nxa6 32.Ra1 Nc7 33.Rxa8+
+Nxa8 34.Kf2 Kf8 35.Ke3 Ke7 36.Kd4 Ke6 37.f4 f6 38.Kc4 Nc7 0-1 
+
+
+
+[Event "2-BSB Congress"]
+[Site "Nuremberg GER"]
+[Date "1888.08.14"]
+[EventDate "?"]
+[Round "10"]
+[Result "0-1"]
+[White "Louis Paulsen"]
+[Black "Siegbert Tarrasch"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "124"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4
+7. cxd4 Bd7 8. Be2 Nge7 9. b3 Nf5 10. Bb2 Bb4+ 11. Kf1 Be7
+12. g3 a5 13. a4 Rc8 14. Bb5 Nb4 15. Bxd7+ Kxd7 16. Nc3 Nc6
+17. Nb5 Na7 18. Nxa7 Qxa7 19. Qd3 Qa6 20. Qxa6 bxa6 21. Kg2
+Rc2 22. Bc1 Rb8 23. Rb1 Rc3 24. Bd2 Rcxb3 25. Rxb3 Rxb3
+26. Bxa5 Rb2 27. Bd2 Bb4 28. Bf4 h6 29. g4 Ne7 30. Ra1 Nc6
+31. Bc1 Rc2 32. Ba3 Rc4 33. Bb2 Bc3 34. Bxc3 Rxc3 35. Rb1 Kc7
+36. g5 Rc4 37. gxh6 gxh6 38. a5 Ra4 39. Kg3 Rxa5 40. Kg4 Ra3
+41. Rd1 Rb3 42. h4 Ne7 43. Ne1 Nf5 44. Nd3 a5 45. Nc5 Rc3
+46. Rb1 Nxd4 47. Na6+ Kd8 48. Rb8+ Rc8 49. Rb7 Ke8 50. Nc7+
+Kf8 51. Nb5 Nxb5 52. Rxb5 Ra8 53. f4 a4 54. Rb1 a3 55. f5 a2
+56. Ra1 Ra4+ 57. Kh5 Kg7 58. fxe6 fxe6 59. Rg1+ Kh8 60. Ra1
+Kh7 61. Rg1 a1=Q 62. Rg7+ Kh8 0-1 
+
+
+
+[Event "San Sebastian"]
+[Site "San Sebastian ESP"]
+[Date "1912.02.27"]
+[EventDate "1912.02.19"]
+[Round "7"]
+[Result "1-0"]
+[White "Aron Nimzowitsch"]
+[Black "Siegbert Tarrasch"]
+[ECO "C02"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1. e4 { Notes by Raymond Keene. Nimzowitsch played what is now
+known as the Milner-Barry Gambit rather infrequently, but he
+had one particular success which must have given him very
+great pleasure.} 1...c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 Qb6
+6. Bd3 cxd4 7. cxd4 Bd7 8. Be2 {Not the pure Milner-Barry,
+which should not be bad for Black after 8 O-O Nxd4 9 Nxd4 Qxd4
+10 Nc3 a6! and it is not clear that White has enough
+compensation for the pawn. It may also be possible for Black
+to play 10...Qxe5; in a more recent game (Netanya 1971)
+Westerinen scored a fine success with this over Bisguier: 11
+Re1 Qb8 12 Nxd5 Bd6 13 Qh5 (13 Qg4! is stronger) 13...Kf8 14
+Nc3 Nf6 15 Qh4 Bc6 16 Bg5 Be5-+. } 8...Nge7 9. b3 Nf5 10. Bb2
+Bb4+ 11. Kf1 {Black's next maintains pressure on the d-pawn,
+but Nimzowitsch shows that Black should have played 11...O-O!
+12 g4 (12 Bd3 f6 13 Bxf5 exf5) 12...Nh6 13 Rg1 f6 14 exf6
+Rxf6! 15 g5 Rxf3! 16 Bxf3 (or 16 gxh6 Rf7) 16...Nf5 17 Rg4 Be8
+18 Qe2 Ncxd4 19 Rxd4! Nxd4 20 Qe5 Bb5+ 21 Kg2 Nf5 22 Bxd5 (if
+22 Nc3 Bxc3 23 Bxc3 d4) 22...exd5 23 Qxf5 Rf8 24 Qxd5+ Rf7! 25
+Qd4 Bc5 and White must resign. } 11...Be7 12. g3 a5 {?} 13. a4
+Rc8 14. Bb5 Nb4 15. Nc3 {! L. Paulsen-Tarrasch, Nuremberg
+1888, had gone 15 Bxd7+? Kxd7 16 Nc3 Nc6 17 Nb5 Na7 18 Nxa7?
+Qxa7 19 Qd3 Qa6!, and Tarrasch won a fine ending after the
+exchange of queens. } 15...Na6 {In Dreihundert Schachpartien,
+the second edition published in 1909, Tarrasch gives
+15...Bxb5+ 16 Nxb5 Nc2 with the threat of ...Ne3+; this
+Nimzowitsch shows to be harmless: 17 Rc1 Ne3+ 18 fxe3 Nxe3+ 19
+Ke2 Nxd1 20 Rxc8+ Kd7 21 Rxh8 Nxb2 22 Rc1 and wins. } 16. Kg2
+Nc7 17. Be2 Bb4 18. Na2 Na6 19. Bd3 Ne7 20. Rc1 Nc6 21. Nxb4
+Naxb4 22. Bb1 h6 23. g4 Ne7 24. Rxc8+ Bxc8 25. Ne1 Rf8 26. Nd3
+f6 27. Nxb4 Qxb4 28. exf6 Rxf6 29. Bc1 Nc6 30. g5 hxg5
+31. Bxg5 Rf8 32. Be3 Qe7 33. Qg4 Qf6 34. Rg1 Rh8 35. Kh1 Rh4
+36. Qg3 Rxd4 {'Despair! 37 Bg5 was threatened as also 37 Qxg7'
+-- Nimzowitsch. } 37. Bxd4 Nxd4 38. Qxg7 Qf3+ 39. Qg2 Qxg2+
+40. Rxg2 Nxb3 41. h4 {After his game with Tarrasch,
+Nimzowitsch decided that 6 Bd3 was too risky, and in
+subsequent games (before he discovered 4 Qg4) he developed the
+king's bishop on a more modest square, e2, although this cut
+out the possibility of reaching the position from his Salwe
+game. Here is one example: Nimzowitsch-Spielmann, Stockholm
+1920. http://www.chessgames.com/perl/chessgame?gid=1102388}
+1-0 
+
+
+
+[Event "Breslau"] 
+[Site "Breslau GER"] 
+[Date "1925.07.25"] 
+[EventDate "1925.07.19"] 
+[Round "6"] 
+[Result "0-1"] 
+[White "Albert Becker"] 
+[Black "Aron Nimzowitsch"] 
+[ECO "C10"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "121"] 
+ 
+1. e4 { Notes by Raymond Keene. } e6 2. d4 d5 3. Nc3 Nc6
+4. Nf3 Bb4 5. e5 Bxc3+ 6. bxc3 Na5 7. a4 Ne7 8. Bd3 b6 9. Nd2
+{!} c5 10. Qg4 c4 11. Be2 {11 Qxg7 Rg8 and ...cxd3. } 11...Nf5
+12. Nf3 h6 13. Qh3 Kd7 14. g4 Ne7 15. Nd2 Qe8 16. f4 Kc7
+17. Ba3 Bd7 18. Qf3 h5 {!} 19. Nxc4 {!} Nxc4 20. Bxc4 hxg4
+21. Qg2 Nf5 22. Bd3 Bxa4 {!! 'A lunch under dangerous
+conditions!' -- Nimzowitsch. } 23. Bxf5 exf5 24. Qxd5 Bc6
+25. Qd6+ Kc8 26. d5 Rh6 27. e6 Bxd5 {! 27...Rxe6+ was also
+possible. } 28. Qxd5 Qxe6+ 29. Qxe6+ Rxe6+ 30. Kd2 Kb7
+31. Rae1 Rh8 32. Rxe6 fxe6 33. Re1 Rxh2+ 34. Kd3 g3 35. Rg1
+Rh3 36. Kd4 Kc6 37. Rg2 a5 38. c4 Rh2 39. Rxg3 Rxc2 40. Rxg7
+Re2 41. Bc1 Re4+ 42. Kd3 b5 43. cxb5+ Kxb5 44. Be3 Kc6 45. Rf7
+a4 46. Rf8 a3 47. Ra8 e5 48. Ra6+ Kb5 49. Rb6+ Ka5 50. Rf6 a2
+51. Bd2+ Kb5 52. Bc3 Rd4+ 53. Ke2 Rxf4 54. Rf8 Kc4 55. Ba1
+Re4+ 56. Kd2 f4 57. Rc8+ Kd5 58. Rd8+ Ke6 59. Re8+ Kf5 60. Rg8
+f3 61. Re8 0-1 
+
+
+
+[Event "Marienbad"] 
+[Site "Marianske Lazne CSR"] 
+[Date "1925.05.24"] 
+[EventDate "1925.??.??"] 
+[Round "3"] 
+[Result "0-1"] 
+[White "Karel Opocensky"] 
+[Black "Aron Nimzowitsch"] 
+[ECO "E32"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "86"] 
+ 
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 b6 5.e4 Bb7 6.Bd3 Nc6 7.Nf3
+Be7 8.a3 d6 9.O-O e5 10.d5 Nb8 11.b4 Nbd7 12.Bb2 O-O 13.Ne2
+Nh5 14.Qd2 g6 15.g4 Ng7 16.Ng3 c6 17.Qh6 Rc8 18.Rac1 a6
+19.Rfd1 Rc7 20.h4 cxd5 21.cxd5 Rxc1 22.Rxc1 Nf6 23.Nh2 Kh8
+24.Qe3 Nd7 25.Nf3 Nf6 26.Nh2 Ng8 27.g5 f6 28.Nf3 fxg5 29.hxg5
+Bc8 30.Rc6 Bd7 31.Bxa6 Bxc6 32.dxc6 Qc7 33.b5 h6 34.gxh6 Ne6
+35.a4 Bd8 36.Ba3 Qf7 37.Nxe5 dxe5 38.Bxf8 Qxf8 39.a5 Nxh6
+40.axb6 Ng4 41.c7 Nxe3 42.c8=Q Qf3 43.fxe3 Qxg3+ 0-1 
+
+
+
+[Event "Karlsbad"] 
+[Site "Karlsbad (Karlovy Vary) AUH"] 
+[Date "1911.08.22"] 
+[EventDate "1911.08.21"] 
+[Round "2"] 
+[Result "1-0"] 
+[White "Akiba Rubinstein"] 
+[Black "Oldrich Duras"] 
+[ECO "A22"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "103"] 
+ 
+1.c4 {Notes by Nimzowitsch} e5 2.Nc3 Nf6 3.g3 Bb4 4.Bg2 O-O
+5.Nf3 Re8 6.O-O Nc6 {The exchange ...Bxc3 was to be
+considered.} 7.Nd5 Bf8 8.d3 h6 9.b3 d6 10.Bb2 Nxd5 11.cxd5 Ne7
+12.e4 c5 {In the long run something must be done for the
+c-Pawn.} 13.dxc6 Nxc6 14.d4 Bg4 15.d5 Ne7 {We have now got our
+Pawn chain, and the Black base, the pawn at d6, already seems
+exposed (from the side), just as if the typical attack had
+been made on it by c4-c5-cxd ...cxd.} 16.Qd3 Qd7 17.Nd2 {The
+Knight is already being sent forward to the attack on the
+exposed base.} Bh3 18.a4 {To safeguard the Knight position on
+c4.} Bxg2 19.Kxg2 Reb8 20.Nc4 b5 21.axb5 Qxb5 22.Ra3 {In this
+and similar positions the question arises, which Pawn is the
+weaker, White's b-Pawn or Black's a-Pawn? In the present case
+this problem could be solved by logical deduction. Since
+Black's Pawn at d6 is weaker than White's Pawn at d5, a like
+relation must exist throughout what remains of the Queen's
+wing. Were this not the case then White's a4 must have been
+wrong, and that is unlikely. Was he in fact not justified in
+supporting2 his own important Knight at c4? But that would be
+absurd. No, Nc4 was indicated, similarly a4; hence ... b5 must
+have led to a less favorable position for Black. And the
+course of the game proves the correctness of this judgement.}
+Ng6 {...Nc8 would perhaps have been better.} 23.Rfa1 a6 24.Bc1
+Rb7 25.Be3 f6 26.f3 {If Black could manage to play ...f5, his
+position would not be so bad. But this is out of the question,
+and Black is besieged.} Ne7 27.Qf1 {Threatening Nxd6.} Nc8
+28.Nd2 Qb4 29.Qc4 Qxc4 30.Nxc4 Rab8 31.Nd2 Rc7 32.Rxa6 {The
+masterly and varied uses made of the points d2 and c4 should
+be noted.} Rc2 33.R6a2 Rxa2 34.Rxa2 {The rest of the game
+which consists of bringing the King to the center followed by
+an advance in close order of the fighting unit Bishop, Knight
+and King is easily intelligible.} Be7 35.Kf2 Kf7 36.Ke2 Ke8
+37.Kd3 Kd7 38.Kc3 Bd8 39.Nc4 {c3 is our shelter.} Bc7 40.g4
+Bd8 41.Ra6 Bc7 42.h4 Bd8 43.h5 Bc7 44.b4 Rb7 45.Ra8 Kd8 46.Kb3
+Rb8 47.Rxb8 Bxb8 48.b5 Ne7 49.b6 f5 {There is nothing left to
+hope for.} 50.gxf5 Ng8 51.Bf2 Kc8 52.Bh4 1-0 
+
+
+
+[Event "Barmen Meisterturnier A"] 
+[Site "Barmen GER"] 
+[Date "1905.08.15"] 
+[EventDate "1905.08.14"] 
+[Round "2"] 
+[Result "1-0"] 
+[White "Geza Maroczy"] 
+[Black "Hugo Suechting"] 
+[ECO "D61"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "95"] 
+ 
+1. d4 {Notes by Nimzowitsch} d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7
+5. e3 Nbd7 6. Nf3 O-O 7. Qc2 c6 8. a3 Nh5 {Hardly in place;
+better was ...Re8 or ...h6.} 9. h4 f5 {...f6 would be answered
+by Bd3!} 10. Be2 Ndf6 11. Ne5 {!} Bd7 12. Qd1 Be8 13. c5
+{Weaving the chain.} Qc7 14. b4 a5 15. g3 {! No one knows
+better than Maroczy how to prevent freeing moves (here
+...f4).} axb4 16. axb4 Rxa1 17. Qxa1 Ne4 18. g4 {!} Nxc3
+19. Qxc3 Nf6 20. Bf4 {! Threatens Ng6 and thus gains time for
+g5.} Qc8 21. g5 Nd7 22. Nd3 {! The exchange would make it more
+difficult to breakthrough.} Bf7 23. Kd2 Bd8 24. Ra1 {Only now
+does play begin in the real theater. The idea is naturally
+attack on the base (P at c6) by b5.} Bc7 25. Ra7 Re8 26. Bxc7
+Qxc7 27. f4 {Stops all attempts to break through by ...e5.}
+Rb8 28. b5 {At last!} Qc8 {Or 28...cxb5 29.Nb4 etc.} 29. b6 {!
+With this White transfers the attack to the new base, the P at
+b7. Play against the base P at c6 would have been pursued by
+29 Nb4 followed by, say, Qa3-a4; but the transference of the
+attack to Black's b7 is still stronger, and above all
+safer. Suechting is now helpless.} Be8 30. Nc1 Nf8 31. Nb3 e5
+{The only way of saving the b-Pawn, otherwise there would have
+come 32 Na5 33 Nxb7 and if 33...Rxb7 34 Ba6.} 32. dxe5 Ne6
+33. Bd3 {!} g6 34. h5 Bf7 35. Na5 Nd8 36. e6 {Our sacrificing
+advance of the unblockaded passed Pawn. The pieces to the rear
+come to life.} Qxe6 37. h6 d4 38. Qxd4 Qa2+ 39. Ke1 Ne6
+40. Qe5 Re8 41. Nxb7 Qb3 42. Be2 Qb1+ 43. Kf2 Qh1 44. Nd6 Qh4+
+45. Kg2 Nxf4+ 46. Qxf4 Bd5+ 47. Bf3 Bxf3+ 48. Kxf3 1-0 
+
+
+
+[Event "Semmering"]
+[Site "Semmering AUT"]
+[Date "1926.03.18"]
+[EventDate "1926.03.07"]
+[Round "9"]
+[Result "1-0"]
+[White "Aron Nimzowitsch"]
+[Black "Walter Michel"]
+[ECO "A06"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "47"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 c5 4. e3 e6 5. Ne5 Nbd7 6. Bb5 a6
+7. Bxd7+ Nxd7 8. Nxd7 Bxd7 9. O-O f6 10. c4 dxc4 11. bxc4 Bd6
+12. Qh5+ g6 13. Qh6 Bf8 14. Qh3 Be7 15. Nc3 O-O 16. a4 Bd6
+17. f4 Qe7 18. e4 Bc6 19. g4 f5 20. gxf5 exf5 21. e5 Bc7
+22. Nd5 Bxd5 23. cxd5 Qd7 24. e6 1-0 
+
+
+
+[Event "Berlin"] 
+[Site "Berlin GER"] 
+[Date "1916.??.??"] 
+[EventDate "?"] 
+[Round "?"] 
+[Result "1-0"] 
+[White "Siegbert Tarrasch"] 
+[Black "Jacques Mieses"] 
+[ECO "C10"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "37"] 
+ 
+1.e4 {Notes by Nimzowitsch} e6 2.d4 d5 3.Nc3 dxe4 {Giving up
+the center, but opens the d-file and the long diagonal b7 to
+h1 for pressure on White's center.} 4.Nxe4 Nd7 5.Nf3 Ngf6
+6.Bd3 Nxe4 {Better would be ...b6, but the text move is
+playable.} 7.Bxe4 Nf6 8.Bd3 {If 8.Bg5 Be7 9.Bxf6, then best
+9...gxf6.} b6 9.Bg5 Bb7 10.O-O Be7 11.Qe2 O-O 12.Rad1 h6 {?
+The tenacity of purpose so necessary to tournament play fails
+him here. Why not ...Qd5? If then 13.c4 Qa5 followed presently
+by ...Rad8 and the pressure is already sensible. If, however,
+13.c4 Qa5 14.d5, then 14...Rae8! with strong
+counter-threats. For instance 15.dxe6 Bxf3 followed by
+...Qxg5. Why the mere contact with the point d5 must bring a
+blessing is evident. This point in the first place is the
+outpost station in the Queen file, and in the second the same
+thing in the diagonal b7 to h1, while lastly, d5 is a
+blockading point. The enormous strategical importance to Black
+of the point d5 makes it clear that any, even the most
+passing, contact with it must work wonders.} 13.Bf4 Qd5 {Now
+this move is unfavorable since the c-Pawn is in the air. The
+inclined plane makes its appearance.} 14.c4 Qa5 15.Bxc7 Bxf3
+{15...Rac8 was to be considered here, and after 16.Be5 Rfd8,
+the advance of White's Pawn majority is very much hindered.}
+16.gxf3 {!} Qxa2 {? Black will not resign himself to the loss
+of a Pawn, runs risks in seeking compensation, and thus loses
+the Queen. With 16...Rfc8 17.Be5 Nd7! (with a view to the
+threatened Kh1 and Rg1), he couls still have put up
+resistance. For if then 18.Bxe4, then 18...Nxe5 19.Bxa8 Ng6,
+and Black threatens ...Nf4 leading to mate or win of the
+Queen.} 17.Ra1 Qb3 18.Bc2 Qb4 19.Ra4 {The Queen is prettily
+trapped.} 1-0 
+
+
+
+[Event "Semmering"] 
+[Site "Semmering AUT"] 
+[Date "1926.03.17"] 
+[EventDate "1926.03.07"] 
+[Round "8"] 
+[Result "0-1"] 
+[White "Ernst Gruenfeld"] 
+[Black "Savielly Tartakower"] 
+[ECO "D21"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "82"] 
+ 
+1. d4 {Notes by Nimzowitsch} d5 2. c4 dxc4 3. Nf3 Bg4 4. Ne5
+Bh5 5. Nxc4 {The best answer to 5 Nc3 would be 5...Nd7 and the
+proud knight at e5 will be forced to declare his intentions.}
+e6 6. Qb3 {Threatening both Qxb7 and Qb5+.} Nc6 7. e3 Rb8 {!
+He does not hesitate in employing the rook to protect the
+modest pawn!} 8. Nc3 Nf6 9. Be2 Bxe2 10. Nxe2 Bb4+ 11. Nc3 O-O
+{Both sides have now completed their development, and the game
+is about equal. But White's center, which is otherwise well
+protected, betrays a striking measure of immobility. 'My
+System', however, teaches that every immobile complex tends to
+become a weakness. The truth of the proposition will here be
+shortly manifested.} 12. O-O Nd5 {! He feels himself here as
+if at home, for e4 is not possible because of ...Nxd4.}
+13. Nxd5 {If 13 Ne4, the result would be the mobilization of
+Black's queen side by 13...b5 14 Ne5 Nxe5 15 dxe5 c5 16 a3 c4,
+etc.; or 14 Ncd2 e5, etc. and White's game is disorganized.}
+Qxd5 {!} 14. Qc2 e5 {White's center is already demolished.}
+15. Nxe5 Nxe5 16. dxe5 Qxe5 17. Bd2 Bxd2 18. Qxd2 Rfd8 19. Qc2
+Rd5 {! He makes use of the point d5 in excellent fashion.}
+20. Rad1 Rbd8 21. Rxd5 Rxd5 22. Rd1 g6 23. Rxd5 Qxd5 24. a3 c5
+{Black has a decided advantage for the endgame. Pawn majority
+on the queen side, the queen file. and last but not least the
+central position of his queen. This advantage is, however,
+still only a small one.} 25. h3 b5 {Centralization proceeds
+apace! White's pawn majority is much less easily realizable
+than Black's (if, for instance 26 f3, then 26...f5, and
+White's e4 is in bondage), and this is sufficient to explain
+the loss of the game.} 26. Qc3 c4 27. f4 Qe4 {!} 28. Kf2 a5
+{The whole thing is played by Tartakower with wonderful
+precision and truly artistic elegence. Tartakower is, in my
+opinion, without question the third best endgame artist of all
+living masters.} 29. g4 h6 30. h4 Qh1 {! Only now, and this
+tardiness is to his credit, does he give up the central
+position in favor of a diversion.} 31. Kg3 Qg1+ 32. Kf3 Qh2
+{!} 33. g5 h5 34. Ke4 Qxh4 35. Qxa5 Qh1+ 36. Ke5 Qc6 {! In
+order on 37 Qe1 to put in operation the following maneuver:
+37...Qc5+ Ke4 Qf5+ followed by ...Qc2 and wins.} 37. Qa7 h4
+38. f5 {White is already at his last gasp.} gxf5 39. Kxf5 Qf3+
+40. Ke5 h3 41. Kd4 Qg4+ 0-1 
+
+
+
+[Event "American National"] 
+[Site "New York, NY USA"] 
+[Date "1913.01.28"] 
+[EventDate "1913.01.19"] 
+[Round "7"] 
+[Result "0-1"] 
+[White "Harry Kline"] 
+[Black "Jose Raul Capablanca"] 
+[ECO "A46"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "102"] 
+ 
+1. d4 {Notes by Nimzowitsch. This game illustrates the plan of
+action "center file v. flank attack".} Nf6 2. Nf3 d6 3. c3
+Nbd7 4. Bf4 c6 5. Qc2 Qc7 6. e4 e5 7. Bg3 Be7 {White has now
+the attacking position in the center. This is unquestionably
+an advantage. But here the weakness of his pawn at e4 (we
+shall quickly see why e4 is weak) will soon force White to
+surrender his advantage; that is to say he will find himself
+obliged to equalize with dxe5.} 8. Bd3 O-O 9. Nbd2 Re8 {!}
+10. O-O Nh5 {In order to exchange the bishop.} 11. Nc4 Bf6
+12. Ne3 Nf8 13. dxe5 {Since the Bishop is needed at d3 for the
+protection of the e-pawn, the d-pawn can only be protected
+against a Knight at e6 by exchanging him. The student should
+consider carefully the motif here used, aiming at forcing the
+opponent to declare himself (whether for dxe5 or for d5).}
+dxe5 14. Bh4 Qe7 15. Bxf6 Qxf6 16. Ne1 Nf4 {? With this move a
+diversion is put 'en train' which may be said to run counter
+to the spirit of the opening. The right line of play consisted
+in ...Be6 and doubling the rooks on the d-file. By this means
+advantage could have been taken of the rather uncomfortable
+position of White's bishop at d3. Black's simplest course
+would have been to play ...Be6 on his 14th move.} 17. g3 Nh3+
+18. Kh1 h5 19. N3g2 g5 20. f3 Ng6 21. Ne3 {!} h4 22. g4 {??
+The entry of the knight at f5 would, according to my analysis,
+have decided the game in White's favor. The retreat of the
+Black knight at h3 is cut off. The attempt at a rescue
+undertaken by means of a wreckless advance of the k side pawns
+gives the opportunity, often ocurring in such a position, for
+a decisive counter stroke, by an invasion in the center, in
+the present case by ...Nf4. For instance 22 Nf5 hxg3 23 hxg3
+Bxf5 24 exf5 Ne7 25 Kg2 Kg7 (is the pawn sacrifice 25...g4 26
+fxg4 Ng5 any better?) 26 Kxh3 Rh8+ (or 26...Nd5 27 Qe2) 27 Kg2
+Qh6 28 Kf2 Qh2+ 29 Ng2 Rh3 30 Ke1 Rxg3 31 Ne3, etc. Moreover
+as a superabundance 26 Rh1 is also playable, which I showed to
+be a win for White in an analysis I published in the 'Rigaer
+Rundschau'.} Nhf4 {Now the knight rejoices in his rediscovered
+freedom, and black, after this doubtful excursion, which could
+easily have ended fatally for him, takes up the right line,
+play in the queen file, and pursues it with complete masterly
+to victory. What remains needs but few remarks.} 23. Rf2 Nxd3
+24. Nxd3 Be6 25. Rd1 Red8 26. b3 Nf4 27. Ng2 Nxd3 28. Rxd3
+Rxd3 29. Qxd3 Rd8 {Why not ...Bxg4.} 30. Qe2 h3 31. Ne3 a5
+32. Rf1 a4 33. c4 Rd4 {!} 34. Nc2 Rd7 35. Ne3 Qd8 36. Rd1
+Rxd1+ 37. Nxd1 Qd4 {Queen file and centralization.} 38. Nf2 b5
+{!} 39. cxb5 axb3 40. axb3 Bxb3 {Threatening ...Qa1+.}
+41. Nxh3 Bd1 42. Qf1 cxb5 43. Kg2 b4 44. Qb5 b3 45. Qe8+ Kg7
+46. Qe7 b2 47. Nxg5 Bb3 48. Nxf7 Bxf7 49. Qg5+ Kf8 50. Qh6+
+Ke7 51. Qg5+ Ke8 0-1 
+
+
+
+[Event "Karlsbad"] 
+[Site "Karlsbad (Karlovy Vary) AUH"] 
+[Date "1911.09.12"] 
+[EventDate "1911.08.21"] 
+[Round "17"] 
+[Result "1-0"] 
+[White "Akiba Rubinstein"] 
+[Black "Grigory Levenfish"] 
+[ECO "C14"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "57"] 
+ 
+1.d4 {Notes by Nimzowitsch} e6 2.e4 d5 3.Nc3 Nf6 4.Bg5 Be7
+5.e5 Nfd7 6.Bxe7 Qxe7 7.Qd2 O-O 8.f4 c5 9.Nf3 f6 {It would be
+more in the spirit of a corrct attack on a pawn-chain first to
+play 9...cxd4 10 Nxd4, and not till then 10...f6. But after
+10...f6 11 exf6 Qxf6, the position arrived at is after all
+similar to that of the text.} 10.exf6 Qxf6 11.g3 Nc6 12.O-O-O
+a6 13.Bg2 Nb6 {The diagonal attacking range g2 to d5 is a
+necessary element in White's plan of operations; for this,
+after exf6, hols up the freeing thrust ...e5 better than any
+other possible disposition could.} 14.Rhe1 Nc4 15.Qf2 b5
+16.dxc5 {! Bravo! the flank attack ...Nxb2 has no terrors for
+him, since a flank attack by itself can never ruin a strongly
+centralized game. And White's game is centralized, for he
+holds the center files and pressure in them is already making
+itself felt, and further he has the prospect of occupying the
+central points d4 and e5. Observe now how Black's attack is
+thrown back by action in the center.} Nxb2 17.Kxb2 b4 18.Nd4
+{!} bxc3 19.Ka1 {The c-pawn will be gobbled up presently by a
+rook.} Nxd4 {If 19...Bd7 then 20 Nxe6 Bxe6 21 Rxe6 followed by
+Bxd5.} 20.Qxd4 Rb8 21.Re3 g5 {Now he has a go on the other
+wing.} 22.Rxc3 gxf4 23.gxf4 Bd7 24.c6 Qxd4 25.Rxd4 Be8 26.Bh3
+Rf6 27.c7 {It would have pleased me even better if the
+decision had been brought about in a bishop ending instead of
+through the somewhat "tacked on" action of the passed pawn at
+c7; for instance from such a position as White: King at e5,
+bishop at h3, pawns at a2, c3, f4, h2. Black: King at e7,
+Bishop atf7, pawns at a6, d5, e6, h7; with the continuation
+f5, ...exf5, Bxf5 and white wins the d-pawn and the game. We
+should then have the general idea more markedly broughtout,
+namely first to keep the e-pawn and the d-pawn under
+restraint, then to blockade them and only at the end to
+destroy them. But as played the game was instructive enough!
+(e.g., moves 13, 16, and 18). } Rc8 28.Rxd5 Rxc7 29.Bxe6+ 1-0 
+
+
+
+[Event "Dresden"] 
+[Site "Dresden GER"] 
+[Date "1926.04.09"] 
+[EventDate "1926.04.04"] 
+[Round "5"] 
+[Result "1-0"] 
+[White "Aron Nimzowitsch"] 
+[Black "Akiba Rubinstein"] 
+[ECO "A34"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "91"] 
+ 
+1. c4 { Notes by Raymond Keene. Awarded the prize for the
+best-played game.} c5 2. Nf3 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. e4
+Nb4 6. Bc4 e6 7. O-O N8c6 8. d3 Nd4 9. Nxd4 cxd4 10. Ne2 a6
+11. Ng3 Bd6 12. f4 O-O 13. Qf3 Kh8 14. Bd2 f5 15. Rae1 Nc6
+16. Re2 Qc7 17. exf5 exf5 18. Nh1 {!! A wonderful idea. White
+has in mind the manoeuvre Nh1-f2-h3-g5, in conjunction with
+Qh5, as a method of assaulting the position of Black's
+king. When I first read My System I was so impressed by this
+game that I deliberately created situations in my next few
+games where the move Ng3-h1 was possible, in the belief that
+this mystical retreat would somehow result in a miraculous
+increase of energy in my position, irrespective of whatever
+else may have been happening on the board at the time.}
+18...Bd7 19. Nf2 Rae8 20. Rfe1 Rxe2 21. Rxe2 Nd8 22. Nh3 Bc6
+23. Qh5 g6 24. Qh4 Kg7 25. Qf2 {Another brilliant idea. The
+threat to the d-pawn forces Black to withdraw either his queen
+or his king's bishop from the defence of his kingside. }
+25...Bc5 26. b4 Bb6 27. Qh4 {Back again and with redoubled
+strength. } 27...Re8 {Or 27...Rf6 28 Ng5 h6 29 Nh7 +- }
+28. Re5 {!} Nf7 {If 28...Rxe5 29 fxe5 Qxe5 30 Qh6+ or 28...h6
+29 g4 hxg4 30 f5 Qxe5 31 f6+ Qxf6 32 Qxh6 mate. These
+beautiful variations are just an indication of what
+Nimzowitsch saw. } 29. Bxf7 Qxf7 30. Ng5 Qg8 31. Rxe8 Bxe8
+32. Qe1 {! A decisive change of front. } 32...Bc6 33. Qe7+ Kh8
+34. b5 {!! Who would expect the death-blow to come from this
+quarter? If Black plays 34..axb5 he is mated as follows: 35
+Ne6 h5 36 Qf6+ Kh7 37 Ng5+ Kh6 38 Bb4! In view of this,
+Rubinstein elects to surrender a piece but that too is
+obviously without hope.} 34...Qg7 35. Qxg7+ Kxg7 36. bxc6
+36...bxc6 37. Nf3 c5 38. Ne5 Bc7 39. Nc4 Kf7 40. g3 Bd8
+41. Ba5 Be7 42. Bc7 Ke6 43. Nb6 h6 44. h4 g5 45. h5 g4 46. Be5
+1-0 
+
+
+
+[Event "Baden-Baden"] 
+[Site "Baden-Baden GER"] 
+[Date "1925.05.05"] 
+[EventDate "1925.04.16"] 
+[Round "15"] 
+[Result "1-0"] 
+[White "Aron Nimzowitsch"] 
+[Black "Stefano Rosselli del Turco"] 
+[ECO "A06"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "49"] 
+ 
+1.Nf3 {Notes by Nimzowitsch} d5 2.b3 c5 3.e3 Nc6 4.Bb2 Bg4
+5.h3 Bxf3 6.Qxf3 e5 7.Bb5 Qd6 8.e4 {We have here to do with
+the remarkable situation which we have already had occasion to
+notice, namely the one in which we do not at once cause the
+doubled Pawns by Bxc6+, bxc6, but rather bring this about by a
+roundabout way. As a matter of fact after 8 Bxc6+?, bxc6, we
+should never be able to force our obstinate opponent to
+accomodate us by playing ...d4, e.g., 8.Bxc6+ bxc6 9 e4 Nf6
+etc.} d4 9.Na3 {Threatening 10 Nc4 Qc7 11 Bxc6+ bxc6 and the
+weakness of the doubled Pawns is evident.} f6 10.Nc4 Qd7
+11.Qh5+ {The manouver of the Queen is intended to help prevent
+Black's castling on the Q side; not on the K side as one might
+at first site think.} g6 12.Qf3 Qc7 {Not ...O-O-O because of
+Na5 and the covering move ...Nge7 is ruled out because of
+Qxf6.} 13.Qg4 {! Now she rejoices in the observation post she
+has won for herself. This Q manouver has quite a hyper-modern
+air to it.} Kf7 {White threatened 14 Qe6+ Kd8 (or ...Be7 15
+Na5) 15 Bxc6 and the unpleasant doubled Pawn is a fact.} 14.f4
+h5 15.Qf3 exf4 16.Bxc6 {At the right moment, for the Q dare
+not retake. For instance 16...Qxc6 17 Qxf4 Re8 18 O-O!! Qxe4
+(...Rxe4 Ne5+) 19 Qc7+!! and wins (19...Qe7 20 Nd6+ followed
+by 21 Nxe8)} bxc6 {At last White has achieved his end, at the
+cost it is true of a Pawn, but here this plays but a
+subordinate role.} 17.O-O g5 {For (see the previous note)
+Black's position can be broken up. (Obviously White must not
+allow Black to safeguard his position by Kt...e7-g6-e5.) To
+break up Black's game three Pawn moves are necessary, (i) c3
+(ii) e5 (iii) h4. If White contented himself with only two of
+these his work were but half done. In the game all three are
+brought about.} 18.c3 {!} Rd8 {Now this Rook is happily
+tethered! (to his Pawn at d4).} 19.Rae1 {!} Ne7 20.e5 Nf5
+21.cxd4 {!} Nxd4 {If 21...cxd4 then 22 exf6 Kxf6 23 Qe4 and
+...Ng3 is impracticable on account of Bxd4+} 22.Qe4 Be7 {The
+reply to ...f5 would have been Qb1, an attacking move in the
+best modern spirit. For example, 22...f5 23 Qe4 Ke6 (to
+protect the f-Pawn) 24 Qd3! and 25 Nd6! with a decisive
+attack.} 23.h4 {! Now the undermined Black position tumbles
+like a house of cards.} Qd7 24.exf6 Bxf6 25.hxg5 {For after
+25...Bg7 26 Ne5+ Bxe5 27 Qxe5 Black's King is a pathetic
+figure in his helplessness.} 1-0 
+
+
+
+[Event "Dresden"] 
+[Site "Dresden GER"] 
+[Date "1926.04.05"] 
+[EventDate "1926.04.04"] 
+[Round "2"] 
+[Result "0-1"] 
+[White "Paul F Johner"] 
+[Black "Aron Nimzowitsch"] 
+[ECO "E47"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "80"] 
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nf3 Nc6
+7. O-O Bxc3 8. bxc3 d6 9. Nd2 b6 10. Nb3 e5 11. f4 e4 12. Be2
+Qd7 13. h3 Ne7 14. Qe1 h5 15. Bd2 Qf5 16. Kh2 Qh7 17. a4 Nf5
+18. g3 a5 19. Rg1 Nh6 20. Bf1 Bd7 21. Bc1 Rac8 22. d5 Kh8
+23. Nd2 Rg8 24. Bg2 g5 25. Nf1 Rg7 26. Ra2 Nf5 27. Bh1 Rcg8
+28. Qd1 gxf4 29. exf4 Bc8 30. Qb3 Ba6 31. Re2 Nh4 32. Re3 Bc8
+33. Qc2 Bxh3 34. Bxe4 Bf5 35. Bxf5 Nxf5 36. Re2 h4 37. Rgg2
+hxg3+ 38. Kg1 Qh3 39. Ne3 Nh4 40. Kf1 Re8 0-1 
+
+
+
+[Event "All-Russian Masters"] 
+[Site "St. Petersburg RUE"] 
+[Date "1914.01.23"] 
+[EventDate "?"] 
+[Round "13"] 
+[Result "1-0"] 
+[White "Aron Nimzowitsch"] 
+[Black "Jean Taubenhaus"] 
+[ECO "D02"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "69"] 
+ 
+1. d4 {Notes by Nimzowitsch} d5 2. Nf3 Nf6 3. c4 e6 4. e3 c5
+5. Bd3 Nc6 6. O-O dxc4 7. Bxc4 cxd4 8. exd4 Be7 9. Nc3 O-O
+10. Be3 {10 d5 would be bad because of ...Na5 11 b3 Bb4; nor
+would 10 Bg5 be good 10...b6, etc.} b6 {10...a6 and ...b5
+would unneccessarily weaken the point c5.} 11. Qe2 Bb7
+12. Rfd1 Nb4 13. Ne5 Rc8 14. Rac1 Nbd5 15. Nb5 {A
+strategically noteworthy conception. White says to himself: in
+the center I am strong, therefore a strategical diversion is
+justified; moreover, I have no particular wish after say 15
+Ba6 or Bd3 to be saddled with hanging Pawns. The right move
+was, nevertheless, Ba6. For example 15 Ba6 Nxc3 16bxc3 Qc7 17
+Bxb7 Qxb7 18 c4 with eventually a4-a5.} a6 16. Na7 {!} Ra8 {If
+...Rc7 then Bxa6.} 17. Nac6 Qd6 18. Nxe7+ Qxe7 19. Bd3 {!}
+Nxe3 {There was no occasion for this. Other lines of play to
+be considered were (i) 19...a5 and ...Rfc8 (ii) 19...Rfd8
+followed by ...Ktd7-f8} 20. fxe3 b5 {Weakens the point
+c5. After 20...a5 (instead of the text move) and ...Rfc8,
+there would not be much wrong with him.} 21. Rc5 {By occupying
+this outpost station White gets play in the c-file.} Rfc8
+22. Rdc1 g6 23. a3 {What now follows could serve as a textbook
+example for play in an open file. The slowness with which
+White step by step gains in terrain is also of significance
+from the point of view of position play.} Ne8 24. b4 Nd6 {If
+...Qg5 then Nxf7.} 25. Qf2 {!} f5 {In order to relieve the
+f-Pawn and to make ...Qg5 possible.} 26. Qf4 Ne8 {Black can
+undertake nothing.} 27. Be2 {!} Nd6 28. Bf3 {Breaks down the
+opposition in the c-file.} Rxc5 29. dxc5 Ne8 {If 29...Ne4 then
+30 c6 g5 31 cxb7 Rf8 32.Rc8 and wins.} 30. Rd1 Nf6 31. c6 {The
+c-Pawn, the fruit of the operations on the c-file, now brings
+the decision.} Bc8 32. c7 Ra7 33. Rd8+ Kg7 34. Rxc8 Rxc7
+35. Nxg6 1-0 
+
+
+
+[Event "St. Petersburg"] 
+[Site "St. Petersburg RUE"] 
+[Date "1909.02.15"] 
+[EventDate "1909.02.15"] 
+[Round "1"] 
+[Result "1-0"] 
+[White "Akiba Rubinstein"] 
+[Black "Eugene Aleksandrovich Znosko-Borovsky"] 
+[ECO "D61"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "59"] 
+
+1.d4 {Notes by Lasker.} d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3
+Nbd7 6.Nf3 O-O 7.Qc2 b6 8.cxd5 exd5 9.Bd3 Bb7 10.O-O-O Ne4
+11.h4 f5 12.Kb1 c5 {12...Rc8 should have been played
+instead. 13.Qb3 would then be met simply by Nxc3+ and c5.}
+13.dxc5 bxc5 {After 13...Nd7xc5, white continues 14.Nxd5 Bxd5
+15.Bc4. In this variation Black must not be able to take the
+Bishop at d3 with a check, hence White's 12th move. After
+13...Nd7xc5 14.Nxd5 Bxg5 White would win by 15.Bc4} 14.Nxe4
+fxe4 15.Bxe4 dxe4 16.Qb3+ Kh8 17.Qxb7 exf3 18.Rxd7 Qe8 19.Rxe7
+Qg6+ 20.Ka1 Rab8 21.Qe4 {White calculates every possibility
+with the outmost accuracy.} Qxe4 22.Rxe4 fxg2 23.Rg1 Rxf2
+24.Rf4 Rc2 {If 24...Rbxb2, White wins by Rf8+.} 25.b3 h6
+26.Be7 Re8 27.Kb1 Re2 28.Bxc5 Rd8 29.Bd4 Rc8 30.Rg4 1-0 
+
+
+
+[Event "Uppsala Consultation"] 
+[Site "Uppsala SWE"] 
+[Date "1921.01.18"] 
+[EventDate "?"] 
+[Round "?"] 
+[Result "0-1"] 
+[White "Paulsson / Mandel / Brodd"] 
+[Black "Aron Nimzowitsch"] 
+[ECO "B00"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "88"] 
+ 
+1. e4 { Notes by Raymond Keene. To avoid confusion I should 
+point out that this game appears in some German language books 
+[and in the one-volume translation from German into English of 
+Pachman's work on the middlegame! ] as 'Beratende -- 
+Nimzowitsch'. There is no contradiction involved, for 
+'Beratende' is the German word meaning 'consultation 
+partners'.} Nc6 2. d4 d5 3. e5 f6 4. Bb5 Bf5 5. Nf3 Qd7 6. c4 
+Bxb1 {!! A brilliant conception which enables him to fight 
+successfully for control of the vital d5 square. } 7. Rxb1 
+O-O-O 8. cxd5 {On 8 c5 Nimzowitsch planned ...g5 followed by 
+...Bg7. } 8...Qxd5 9. Bxc6 Qxc6 10. O-O e6 11. Be3 Ne7 12. Qe2 
+Nd5 13. Rfc1 Qd7 14. Rc4 Kb8 15. Qd2 Rc8 16. Ne1 Be7 17. Nd3 
+Rhd8 18. Qc2 f5 19. Rc1 g5 {With the centre secure Nimzowitsch 
+undertakes a powerful wing diversion. } 20. Nc5 Bxc5 21. Rxc5 
+Rg8 22. Qe2 h5 23. Bd2 {Not 23 Qxh5 g4. } 23...h4 24. a4 g4 
+25. a5 a6 26. b4 c6 27. Rb1 Qf7 28. Rb3 f4 29. Qe4 f3 30. Rc1 
+fxg2 31. Kxg2 Rcf8 32. Rf1 g3 {!} 33. hxg3 hxg3 34. f4 {Of 
+course, 34 Rxg3 Rxg3+ 35 Kxg3 would be horrible for White. } 
+34...Ne7 35. Be1 Nf5 36. Rh1 Rg4 37. Bxg3 Qg6 38. Qe1 Nxg3 
+39. Rxg3 Rfxf4 40. Rhh3 Rxd4 41. Qf2 Rxg3+ 42. Rxg3 Qe4+ 
+43. Kh2 Qxe5 44. Kg2 Qd5+ {White resigns. Compare the finish 
+of the game with that of Diez del Corral-Petrosian.} 0-1 
+
+
+
+[Event "San Sebastian"]
+[Site "San Sebastian ESP"]
+[Date "1911.03.09"]
+[EventDate "1911.02.20"]
+[Round "11"]
+[Result "0-1"]
+[White "Richard Teichmann"]
+[Black "Aron Nimzowitsch"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "110"]
+
+1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Nc3 Nbd7 5.Bc4 Be7 6.O-O O-O 7.Qe2
+c6 8.Bg5 h6 9.Bh4 Nh5 10.Bg3 Nxg3 11.hxg3 b5 12.Bd3 a6 13.a4
+Bb7 14.Rad1 Qc7 15.axb5 axb5 16.g4 Rfe8 17.d5 b4 18.dxc6 Bxc6
+19.Nb1 Nc5 20.Nbd2 Qc8 21.Bc4 g6 22.g3 Kg7 23.Nh2 Bg5 24.f3
+Qc7 25.Rfe1 Rh8 26.Ndf1 h5 27.gxh5 Rxh5 28.Bd5 Rah8 29.Bxc6
+Qxc6 30.Qc4 Qb6 31.Kg2 Ne6 32.Re2 Nd4 33.Ree1 Qb7 34.Rxd4 exd4
+35.Ng4 Qb6 36.f4 Be7 37.Rd1 f5 38.Nf2 fxe4 39.Qxd4+ Qxd4
+40.Rxd4 d5 41.g4 Bc5 42.Rd1 Rh4 43.Rxd5 Bxf2 44.Kxf2 Rxg4
+45.Ke3 Rc8 46.Kxe4 Rc4+ 47.Kd3 Rcxf4 48.Ne3 Rg3 49.Re5 Kf6
+50.Re8 Kf7 51.Re5 Rf6 52.c4 b3 53.Ke4 Re6 54.Rxe6 Kxe6 55.Nd5
+g5 0-1 
+
+
+
+[Event "St. Petersburg"]
+[Site "St. Petersburg RUE"]
+[Date "1909.03.04"]
+[EventDate "1909.02.15"]
+[Round "13"]
+[Result "1-0"]
+[White "Emanuel Lasker"]
+[Black "Amos Burn"]
+[ECO "C84"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "127"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3
+d6 8.c3 Na5 9.Bc2 c5 10.d4 Qc7 11.Nbd2 Nc6 12.Nf1 O-O 13.Ne3
+Bg4 14.Nxg4 Nxg4 15.h3 Nf6 16.Be3 Nd7 17.Qe2 Bf6 18.Rad1 Ne7
+19.Bb1 Nb6 20.a3 Ng6 21.g3 Rfe8 22.d5 Nd7 23.Kg2 Qd8 24.h4 Be7
+25.h5 Ngf8 26.Rh1 h6 27.Rdg1 Nh7 28.Kf1 Kh8 29.Rh2 Rg8 30.Ne1
+Rb8 31.Nc2 a5 32.Bd2 Bf6 33.f3 Nb6 34.Rf2 Nc8 35.Kg2 Qd7
+36.Kh1 Ne7 37.Rh2 Rb7 38.Rf1 Re8 39.Ne3 Ng8 40.f4 Bd8 41.Qf3
+c4 42.a4 Bb6 43.axb5 Qxb5 44.Nf5 Qd7 45.Qg4 f6 46.Bc2 Bc5
+47.Ra1 Reb8 48.Bc1 Qc7 49.Ba4 Qb6 50.Rg2 Rf7 51.Qe2 Qa6 52.Bc6
+Ne7 53.Nxe7 Rxe7 54.Ra4 exf4 55.gxf4 f5 56.e5 Nf6 57.Rxc4 Ng4
+58.Rxc5 Qxe2 59.Rxe2 dxc5 60.d6 Ra7 61.e6 Ra6 62.e7 Nf6 63.d7
+Nxd7 64.Bxd7 1-0 
+
+
+
+[Event "Orebro Consultation "] 
+[Site "Orebro SWE"] 
+[Date "1921.01.18"] 
+[EventDate "?"] 
+[Round "?"] 
+[Result "0-1"] 
+[White "Andersson / Oberg / Enstrom"] 
+[Black "Aron Nimzowitsch"] 
+[ECO "C15"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "64"] 
+ 
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 Nc6 5. Nge2 Nge7 6. O-O 
+O-O 7. e5 Nf5 8. Be3 f6 9. Bxf5 exf5 10. f4 Be6 11. Ng3 Bxc3 
+12. bxc3 Na5 13. Qd3 Qd7 14. Rf3 g6 15. Ne2 Rf7 16. h4 h5 
+17. Kh2 Raf8 18. Rg3 Kh7 19. Ng1 Rg7 20. Nf3 Qa4 21. exf6 Rxf6 
+22. Ng5+ Kg8 23. Bg1 Nc4 24. Re1 Bd7 25. Nf3 Bb5 26. Qd1 Qxa2 
+27. Qe2 Nd6 28. Qe5 Ne8 29. Nd2 Rd6 30. c4 Bd7 31. Rc3 Nf6 
+32. cxd5 Ng4+ 0-1 
+
+
+
+[Event "All-Russian Masters"]
+[Site "St. Petersburg RUE"]
+[Date "1914.01.09"]
+[EventDate "?"]
+[Round "4"]
+[Result "0-1"]
+[White "Bernhard Gregory"]
+[Black "Aron Nimzowitsch"]
+[ECO "A46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "140"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bxf6 Qxf6 5. e4 g6 6. Nc3 Qe7
+7. Bc4 Bg7 8. O-O d6 9. Qd3 O-O 10. Rae1 a6 11. a4 b6 12. Ne2
+c5 13. c3 Bd7 14. b3 Qe8 15. Qc2 b5 16. axb5 axb5 17. Bd3 Qc8
+18. dxc5 dxc5 19. e5 Nc6 20. Bxb5 Nxe5 21. Nxe5 Bxb5 22. Nf3
+Qb7 23. Nd2 Bc6 24. f3 Rfb8 25. Ng3 Qa7 26. Rf2 Bd5 27. Kf1
+Qa2 28. Qxa2 Rxa2 29. c4 Bd4 30. Rfe2 Bc6 31. Rd1 Rb2 32. Rc1
+h5 33. Ke1 Ra8 34. Nh1 Raa2 35. Nf2 Rxd2 36. Rxd2 Rxd2
+37. Kxd2 Bxf2 38. Rb1 Kf8 39. b4 cxb4 40. Rxb4 Ke7 41. Rb8 Bd4
+42. Rc8 Bd7 43. Ra8 e5 44. Kc2 Bc6 45. Rc8 Ba4+ 46. Kd3 Bd7
+47. Rc7 Kd6 48. Rb7 Bg1 49. h3 h4 50. Rb8 Be6 51. Ra8 Bb6
+52. Rh8 Bf2 53. Ra8 Bf5+ 54. Ke2 Bb6 55. Rh8 g5 56. Rg8 f6
+57. Rf8 Ke7 58. Rb8 Bd4 59. Rb5 Bg6 60. Ra5 Bf5 61. Ra6 Bc8
+62. Rc6 Bd7 63. Ra6 Bc5 64. Kd3 Bf5+ 65. Ke2 e4 66. Rc6 Bd4
+67. Ra6 Be6 68. Ra4 e3 69. Kd3 Bc5 70. Ra6 Bxc4+ 0-1 
+
+
+
+[Event "San Sebastian"]
+[Site "San Sebastian ESP"]
+[Date "1911.03.06"]
+[EventDate "1911.02.20"]
+[Round "9"]
+[Result "0-1"]
+[White "Rudolf Spielmann"]
+[Black "Aron Nimzowitsch"]
+[ECO "B29"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "92"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. exd5 Nxd5 5. Bc4 e6 6. O-O
+Be7 7. d4 Nxc3 8. bxc3 O-O 9. Ne5 Qc7 10. Bd3 Nc6 11. Bf4 Bd6
+12. Re1 cxd4 13. cxd4 Nb4 14. Bg3 Nxd3 15. Qxd3 b6 16. c4 Ba6
+17. Rac1 Rac8 18. Qb3 f6 19. Qa4 fxe5 20. dxe5 Ba3 21. Qxa3
+Bxc4 22. Re4 Qd7 23. h3 Bd5 24. Re2 Qb7 25. f4 Qf7 26. Rec2
+Rxc2 27. Rxc2 Qg6 28. Qc3 Bxa2 29. Bh4 Bd5 30. Be7 Re8 31. Bd6
+Qe4 32. Qc7 h6 33. Rf2 Qe1+ 34. Rf1 Qe3+ 35. Rf2 a5 36. Be7
+Qe1+ 37. Rf1 Qe3+ 38. Rf2 Kh8 39. Bd8 Qe1+ 40. Rf1 Qe3+
+41. Rf2 Qe1+ 42. Rf1 Qg3 43. Rf2 Rf8 44. Qxb6 Rxf4 45. Be7 a4
+46. Kf1 Qxg2+ 0-1 
+
+
+
+[Event "San Sebastian"] 
+[Site "San Sebastian ESP"] 
+[Date "1912.03.05"] 
+[EventDate "1912.02.19"] 
+[Round "12"] 
+[Result "1-0"] 
+[White "Aron Nimzowitsch"] 
+[Black "Rudolf Spielmann"] 
+[ECO "C02"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "87"] 
+ 
+1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3 Nc6 5. dxc5 Bxc5 6. Bd3 Nge7
+7. Bf4 Qb6 8. O-O Qxb2 9. Nbd2 Qb6 10. Nb3 Ng6 11. Bg3 Be7
+12. h4 Qb4 13. a4 a6 14. h5 Nh4 15. Nxh4 Bxh4 16. c3 Qe7
+17. Bh2 f5 18. exf6 gxf6 19. Nd4 e5 20. Bf5 {With a strong
+attack, duly converted into a win.--Keene} Nxd4 21. Bxc8 Rxc8
+22. cxd4 O-O 23. dxe5 fxe5 24. Qxd5+ Qf7 25. Qxf7+ Rxf7
+26. Bxe5 Rf5 27. f4 Rxh5 28. Rab1 Be7 29. Kf2 b6 30. Kf3 Rh6
+31. Rfd1 Rc4 32. Rd7 Kf7 33. a5 b5 34. Re1 Rcc6 35. Bd4 Rhe6
+36. Rh1 h6 37. Rb7 Red6 38. Be5 Re6 39. Ke4 Rc4+ 40. Kf5 Rc5
+41. Rd1 b4 42. Rd8 Rxa5 43. Rf8+ Kxf8 44. Kxe6 1-0 
+
+
+
