@@ -117,7 +117,8 @@ def option2_menu():
 
     download_games(page_title, game_ids)
 
-
+    # Return to main menu
+    main_menu()
 
 
 def main_menu():
