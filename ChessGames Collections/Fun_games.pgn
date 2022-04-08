@@ -1,0 +1,90 @@
+[Event "San Remo"] 
+[Site "San Remo ITA"] 
+[Date "1930.01.18"] 
+[EventDate "1930.01.16"] 
+[Round "3"] 
+[Result "1-0"] 
+[White "Alexander Alekhine"] 
+[Black "Aron Nimzowitsch"] 
+[ECO "C17"] 
+[WhiteElo "?"] 
+[BlackElo "?"] 
+[PlyCount "59"] 
+ 
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. Nb5 Bxd2+
+7. Qxd2 O-O 8. c3 b6 9. f4 Ba6 10. Nf3 Qd7 11. a4 Nbc6 12. b4
+cxb4 13. cxb4 Bb7 14. Nd6 f5 15. a5 Nc8 16. Nxb7 Qxb7 17. a6
+Qf7 18. Bb5 N8e7 19. O-O h6 20. Rfc1 Rfc8 21. Rc2 Qe8 22. Rac1
+Rab8 23. Qe3 Rc7 24. Rc3 Qd7 25. R1c2 Kf8 26. Qc1 Rbc8 27. Ba4
+b5 28. Bxb5 Ke8 29. Ba4 Kd8 30. h4 1-0 
+
+
+
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1928.10.29"]
+[EventDate "1928.10.11"]
+[Round "14"]
+[Result "0-1"]
+[White "Richard Reti"]
+[Black "Jose Raul Capablanca"]
+[ECO "C74"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "36"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. c3 a6 5. Ba4 f5 6. d4 fxe4
+7. Ng5 exd4 8. Nxe4 Nf6 9. Bg5 Be7 10. Qxd4 b5 11. Nxf6+ gxf6
+12. Qd5 bxa4 13. Bh6 Qd7 14. O-O Bb7 15. Bg7 O-O-O 16. Bxh8
+Ne5 17. Qd1 Bf3 18. gxf3 Qh3 0-1 
+
+
+
+[Event "US Championship 1963/64"]
+[Site "New York, NY USA"]
+[Date "1963.12.29"]
+[EventDate "1963.??.??"]
+[Round "9"]
+[Result "0-1"]
+[White "Donald Byrne"]
+[Black "Robert James Fischer"]
+[ECO "A07"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "91"]
+
+1. g3 c5 2. Bg2 Nc6 3. d3 g6 4. e4 Bg7 5. f4 e6 6. Nf3 Nge7
+7. O-O Rb8 8. Nbd2 d6 9. a4 O-O 10. c3 a6 11. g4 b5 12. axb5
+axb5 13. Nh4 b4 14. c4 Nd4 15. g5 Bd7 16. Nb3 Qc7 17. Nxd4
+Bxd4+ 18. Kh1 Bg7 19. Rb1 Ra8 20. Be3 Ra2 21. Qd2 Re8 22. Qf2
+Bc6 23. d4 cxd4 24. Bxd4 Bxd4 25. Qxd4 Ba8 26. Ra1 e5 27. Qd2
+Rxa1 28. Rxa1 exf4 29. b3 Nc6 30. Qxf4 Nd4 31. Qe3 Nc2 32. Qa7
+Qxa7 33. Rxa7 Nd4 34. Rd7 Nxb3 35. Rxd6 Nc5 36. Rb6 b3 37. Kg1
+Bxe4 38. Nf3 Ra8 39. Rb5 b2 40. Rxb2 Ra1+ 41. Kf2 Nd3+ 42. Ke3
+Nxb2 43. Kxe4 Nxc4 44. Kf4 Ra2 45. Kg3 Ne3 46. Bh3 0-1 
+
+
+
+[Event "Simul, 6b"]
+[Site "Gambit Chess Rooms, London ENG"]
+[Date "1928.06.08"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Alexander Alekhine"]
+[Black "A Fletcher"]
+[ECO "A31"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "63"]
+
+1. Nf3 Nf6 2. c4 c5 3. d4 Nc6 4. d5 Nb8 5. Nc3 d6 6. g3 g6
+7. Bg2 Bg7 8. O-O O-O 9. Bf4 h6 10. Qd2 Kh7 11. e4 Nh5 12. Be3
+Nd7 13. Rae1 Rb8 14. Nh4 Ndf6 15. h3 Ng8 16. g4 Nhf6 17. f4 e6
+18. Nf3 exd5 19. cxd5 b5 20. e5 b4 21. Nd1 Ne4 22. Qd3 f5
+23. e6 Qa5 24. gxf5 gxf5 25. Nh4 Ba6 26. Qxe4 fxe4 27. Bxe4+
+Kh8 28. Ng6+ Kh7 29. Nxf8+ Kh8 30. Ng6+ Kh7 31. Ne5+ Kh8
+32. Nf7# 1-0 
+
+
+
