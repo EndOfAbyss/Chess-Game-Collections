@@ -1,13 +1,17 @@
-
 import os
+
 import requests
 from bs4 import BeautifulSoup
 
-headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
+headers = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+}
+
 
 def check_directory():
     if not os.path.exists("ChessGames Collections"):
         os.mkdir("ChessGames Collections")
+
 
 def check_file(filename):
     # Entramos a la carpeta de la coleccion
@@ -17,9 +21,10 @@ def check_file(filename):
     if os.path.isfile(filename):
         # borramos el fichero
         os.remove(filename)
-    
+
     # Volvemos a la carpeta de la aplicacion
     os.chdir("..")
+
 
 def download_games(page_title, game_id_list):
     check_directory()
@@ -37,9 +42,11 @@ def download_games(page_title, game_id_list):
         position = 0
 
         for game_id in game_id_list:
-            url_game = "https://www.chessgames.com/perl/nph-chesspgn?text=1&gid=" + str(game_id)
+            url_game = "https://www.chessgames.com/perl/nph-chesspgn?text=1&gid=" + str(
+                game_id
+            )
             response = requests.get(url_game, headers=headers)
-            pgn = response.text.replace('\\"', '').replace('\r', ' ')
+            pgn = response.text.replace('\\"', "").replace("\r", " ")
 
             f.write(pgn)
             f.write("\n\n\n\n")
@@ -50,8 +57,9 @@ def download_games(page_title, game_id_list):
             if new_percentage > current_percentage:
                 print("{}%".format(new_percentage))
                 current_percentage = new_percentage
-        
+
     print("\nGames downloaded successfully")
+
 
 def option1_menu():
     url = input("\nEnter the URL of the chess games collection: ")
@@ -70,7 +78,7 @@ def option1_menu():
     # and extract the gid
     a_tags = soup.select('a[href^="/perl/chessgame?gid="]')
 
-    game_ids = [a_tag.attrs['href'].split("=")[-1] for a_tag in a_tags]
+    game_ids = [a_tag.attrs["href"].split("=")[-1] for a_tag in a_tags]
 
     page_title = soup.title.text
 
@@ -78,6 +86,7 @@ def option1_menu():
 
     # Return to main menu
     main_menu()
+
 
 def option2_menu():
     url = input("\nEnter the Url of the player: ")
@@ -106,14 +115,16 @@ def option2_menu():
     game_ids = []
 
     for page in range(1, total_pages + 1):
-        url_page = f"https://www.chessgames.com/perl/chess.pl?page={page}&pid={player_id}"
+        url_page = (
+            f"https://www.chessgames.com/perl/chess.pl?page={page}&pid={player_id}"
+        )
         response = requests.get(url_page, headers=headers)
         html = response.text
         soup = BeautifulSoup(html, "html.parser")
 
         a_tags = soup.select('a[href^="/perl/chessgame?gid="]')
 
-        game_ids += [a_tag.attrs['href'].split("=")[-1] for a_tag in a_tags]
+        game_ids += [a_tag.attrs["href"].split("=")[-1] for a_tag in a_tags]
 
     download_games(page_title, game_ids)
 
@@ -122,13 +133,15 @@ def option2_menu():
 
 
 def main_menu():
-    print("""
+    print(
+        """
     --------------------------------------
     1. Download Collection of Chess Games
     2. Download Games from Player
     3. Exit
     --------------------------------------
-    """)
+    """
+    )
 
     # Wait for user input
     choice = input("Enter your choice: ")
