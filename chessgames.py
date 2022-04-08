@@ -32,7 +32,7 @@ def download_games(page_title, game_id_list):
     check_file(filename)
 
     # Abrimos el fichero
-    with open(filename, "w") as f:
+    with open(filename, "w", encoding="utf-8") as f:
         current_percentage = 0
         position = 0
 
