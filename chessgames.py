@@ -92,7 +92,12 @@ def download_games_chesscom(page_title, game_id_list):
 
             response = requests.get(url_download, headers=headers)
             # pgn = response.text.replace('\\"', "").replace("\r", " ")
-            pgn = response.text.replace('\\"', "").replace("\r", " ")
+            pgn = response.text.replace('\\"', "").replace("\r", "")
+
+            pgn_list = pgn.split("\n\n\n")
+            pgn_list = [pgn_unit.rstrip() for pgn_unit in pgn_list]
+
+            pgn = "\n\n\n\n".join(pgn_list)
 
             f.write(pgn)
             f.write("\n\n\n\n")
